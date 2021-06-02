@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App12.Play">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Желаете сыграть?" VerticalOptions="Center" HorizontalOptions="Center" TextColor="DodgerBlue"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

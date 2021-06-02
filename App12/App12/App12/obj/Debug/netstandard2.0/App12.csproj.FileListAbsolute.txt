@@ -1,0 +1,17 @@
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.csprojAssemblyReference.cache
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\Play.xaml.g.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.dll
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+D:\Лаб_2\App12\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+D:\Лаб_2\App12\App12\App12\bin\Debug\netstandard2.0\App12.dll
+D:\Лаб_2\App12\App12\App12\bin\Debug\netstandard2.0\ref\App12.dll
+D:\Лаб_2\App12\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+D:\Лаб_2\App12\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
